@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47jc9pb1mpnsytgngh6kcxufec422exh2xqzhn8xkb&rid=200w.webp&ct=g" width="100%" height="20%"/>
 <h1 align="center">Hi 👋, I'm Adedoyin Emmanuel</h1>
 <h3 align="center">I am a passion oriented Fullstack developer</h3>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
-- ⚡ Fun fact: **The multiverse keeps me busy!**
+- ⚡ Fun fact: **We keep Building!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -43,6 +43,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact" alt="princesser" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact" alt="emmanuel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesser&" alt="princesser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&" alt="emmanuel" /></p>
