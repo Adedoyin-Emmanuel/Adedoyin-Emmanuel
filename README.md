@@ -13,17 +13,13 @@
 
 - 👯 I’m looking to collaborate on an **Tech Project**...
 
-- 🤔 I’m looking for help with ... your **Bug**
+- 🤔 I’m always available to guide you in **Tech**
 
 - 💬 Ask me about Tech... 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
-- ⚡ Fun fact: **We keep Building!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact: **I build stuff!**
 
 <h3 align="left">Find Me!:</h3>
 <p align="left">
