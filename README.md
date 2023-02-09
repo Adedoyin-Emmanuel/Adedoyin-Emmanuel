@@ -39,6 +39,10 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact" alt="emmanuel" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&" alt="emmanuel" /></p>
+<a href="http://www.github.com/adedoyin-emmanuel"><img src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Adedoyin's GitHub stats" /></a>
+
+<a href="http://www.github.com/adedoyin-emmanuel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+<a href="https://github.com/adedoyin-emmanuel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedoyin-emmanuel&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
