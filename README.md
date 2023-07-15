@@ -9,13 +9,13 @@
  
 - 🔭 I’m currently working on **<a href="https://blaze.rf.gd">Blaze</a>(A Software that opens multiple softwares)**
 
-- 🌱 I’m currently learning **C, Laravel & React**
+- 🌱 I’m currently learning **C, C++, NodeJs, Tailwind and NextJs**
 
-- 👯 I’m looking to collaborate on an **Tech Project**...
+- 👯 I’m looking to collaborate on an **Open Source Project**...
 
 - 🤔 I’m always available to guide you in **Tech**
 
-- 💬 Ask me about Tech... 
+- 💬 Ask me about Tech, Linux, TypeScript, GNOME, C and C++, Penpot... 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
