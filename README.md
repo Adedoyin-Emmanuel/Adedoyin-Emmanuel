@@ -48,7 +48,6 @@
 <a href="https://github.com/adedoyin-emmanuel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedoyin-emmanuel&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![Adedoyin-Emmanuel's GitHub | Stats](https://stats.quine.sh/Adedoyin-Emmanuel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adedoyin-Emmanuel)
-
 <br/>
 <br/>
 
