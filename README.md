@@ -48,7 +48,8 @@
     </a>
 </p>
 
-## My GitHub Stats
+
+<h2>My GitHub Stats</h2>
 
 <a href="http://www.github.com/adedoyin-emmanuel"><img src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Adedoyin's GitHub stats" /></a>
 
