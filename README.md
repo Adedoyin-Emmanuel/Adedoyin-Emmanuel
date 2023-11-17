@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/Emmysoft_Tm" target="blank"><img src="https://img.shields.io/twitter/follow/Emmysoft_Tm?logo=twitter&style=for-the-badge" alt="adedoyin-emmanuel" /></a> </p>
  
-- 🔭 I’m currently working on **<a href="https://blaze.rf.gd">Blaze</a>(A Software that opens multiple softwares)**
+- 🔭 I’m currently working on **<a href="https://getcaresync.vercel.app">Caresync</a>(An application bridging health care with technology)**
 
-- 🌱 I’m currently learning **C, C++, NodeJs, Tailwind and NextJs**
+- 🌱 I’m currently learning **Python Django, NestJS**
 
 - 👯 I’m looking to collaborate on an **Open Source Project**...
 
-- 🤔 I’m always available to guide you in **Tech**
+- 🤔 I’m always available to guide and support you in **Tech**
 
 - 💬 Ask me about Tech, Linux, TypeScript, GNOME, C, Software Testing and Penpot... 
 
