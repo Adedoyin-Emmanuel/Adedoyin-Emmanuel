@@ -3,11 +3,14 @@
 <h1 align="center">Hi 👋, I'm Adedoyin Emmanuel Adeniyi</h1>
 <h1 align="center">I am a Fullstack Engineer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Emmysoft_Tm" target="blank"><img src="https://img.shields.io/twitter/follow/Emmysoft_Tm?logo=twitter&style=for-the-badge" alt="adedoyin-emmanuel" /></a> </p>
- 
-- 🔭 I’m currently working on **<a href="https://getcaresync.vercel.app">Caresync</a>(An application bridging health care with technology)**
+
+- 🏫 I’m currently schooling at **ALX Africa** studying Software Engineering
+
+- 🔭 I’m currently working on **<a href="https://t.me/keghabot">Kegha</a> A telegram bot that maps user's telegram IDs to their BOS profile**
 
 - 🌱 I’m currently learning **Python Django, NestJS**
 
@@ -31,6 +34,8 @@
   </a>
 <a href="http://www.instagram.com/heyemmysoft" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/adedoyin-emmanuel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@Adedoyin-Emmanuel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/adedoyin-emmanuel-adeniyi" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />  </a> <a href="https://www.x.com/Emmysoft_Tm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@heyemmysoft" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.youtube.com/@adedoyin-emmanuel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </a>
+<a href="https://extensions.gnome.org/accounts/profile/adedoyin-emmanuel" target="_blank" rel="noreferrer">  <img src="https://imgs.search.brave.com/-hR5ExO72Thvt9RnrJ0N0OFOPeppHwLz6rR1Ohwjh5w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTkvMTEvR25vbWVf/TG9nb18yLTcwMHg3/MDAucG5n" width="32" height="32" /> </a> <a href="https://extensions.gnome.org/accounts/profile/adedoyin-emmanuel" target="_blank" rel="noreferrer">
+
 
 </p>
 
