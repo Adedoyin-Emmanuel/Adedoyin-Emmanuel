@@ -1,7 +1,9 @@
 
 <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47jc9pb1mpnsytgngh6kcxufec422exh2xqzhn8xkb&rid=200w.webp&ct=g" width="100%" height="20%"/>
 <h1 align="center">Hi 👋, I'm Adedoyin Emmanuel Adeniyi</h1>
-<h1 align="center">I am a Fullstack Engineer</h3>
+<h1 align="center">I am a Software Engineer</h3>
+
+<p>I'm Adedoyin Emmanuel Adeniyi, I'm a Software Engineer with 3 years of experience and leading product cycle from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. During my free time, I enjoy playing Call Of Duty and riding a bicycle.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
