@@ -8,7 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Emmysoft_Tm" target="blank"><img src="https://img.shields.io/twitter/follow/Emmysoft_Tm?logo=twitter&style=for-the-badge" alt="adedoyin-emmanuel" /></a> </p>
+
+<a href="https://www.twitter.com/Emmysoft_Tm" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Emmysoft_Tm?logo=twitter&style=for-the-badge"/></a>
+<a href="https://www.github.com/adedoyin-emmanuel" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style=for-the-badge" /></a><a href="https://youtube.com/channel/UCDqR1aRuNB8y6RO9huL4c-w">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCDqR1aRuNB8y6RO9huL4c-w?color=red&logo=youtube&style=for-the-badge">
+</a>
+<a href="https://www.youtube.com/@adedoyin-emmanuel-adeniyi">
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
+</a>
 
 - 🏫 I’m currently schooling at **ALX Africa** studying Software Engineering
   
@@ -62,14 +71,10 @@
 
 <h2>My GitHub Stats</h2>
 
-<a href="http://www.github.com/adedoyin-emmanuel"><img src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="Adedoyin's GitHub stats" /></a>
 
-<a href="http://www.github.com/adedoyin-emmanuel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
 
-<a href="https://github.com/adedoyin-emmanuel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adedoyin-emmanuel&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&locale=en&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
 
-[![Adedoyin-Emmanuel's GitHub | Stats](https://stats.quine.sh/Adedoyin-Emmanuel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adedoyin-Emmanuel)
-<br/>
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
 
-[![Adedoyin-Emmanuel's GitHub | Languages Over Time](https://stats.quine.sh/Adedoyin-Emmanuel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adedoyin-Emmanuel)
