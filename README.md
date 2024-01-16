@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   
 - 💻 I’m open to Jobs or internships. 
 
-- 🔭 I’m currently working on **<a href="https://t.me/keghabot">Kegha</a> A telegram bot that maps user's telegram IDs to their BOS profile**
+- 🔭 I’m currently working on **<a href="https://getunicon.vercel.app">Unicon</a> An open source event management and ticketing application**
 
 - 🌱 I’m currently learning **Python Django, NestJS**
 
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 - 🤔 I’m always available to guide and support you in **Tech**
 
-- 💬 Ask me about Tech, Linux, TypeScript, GNOME, C, Software Testing and Penpot... 
+- 💬 Ask me about Tech, Linux, TypeScript, GNOME, C, Software Testing, and Penpot... 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
