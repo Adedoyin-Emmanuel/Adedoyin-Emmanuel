@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adedoyin Emmanuel Adeniyi</h1>
 <h1 align="center">I am a Software Engineer</h3>
 
-<p>I'm Adedoyin Emmanuel Adeniyi, I'm a Software Engineer with 3 years of experience and leading product cycle from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. During my free time, I enjoy playing Call Of Duty and riding a bicycle.</p>
+<p>I'm Adedoyin Emmanuel Adeniyi, I'm a Software Engineer with 3 years of experience and leading product cycle from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. I enjoy playing Call Of Duty and riding a bicycle during my free time.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 - 🏫 I’m currently schooling at **ALX Africa** studying Software Engineering, **ALT School Africa** studying Cloud Engineering.
   
-- 💻 I’m open to Jobs or internships as a Frontend and Backend Engineer and a Product Ambassador.
+- 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Product Ambassador.
 
 - ❣️ I’m interested in the Fintech space.
 
