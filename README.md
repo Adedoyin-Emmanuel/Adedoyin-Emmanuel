@@ -19,23 +19,25 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
-- 🏫 I’m currently schooling at **ALX Africa** studying Software Engineering
+- 🏫 I’m currently schooling at **ALX Africa** studying Software Engineering, **ALT School Africa** studying Cloud Engineering.
   
-- 💻 I’m open to Jobs or internships. 
+- 💻 I’m open to Jobs or internships as a Frontend and Backend Engineer and a Product Ambassador.
 
-- 🔭 I’m currently working on **<a href="https://getunicon.vercel.app">Unicon</a> An open source event management and ticketing application**
+- ❣️ I’m interested in the Fintech space.
 
-- 🌱 I’m currently learning **Python Django, NestJS**
+- 🔭 I’m currently working on **<a href="https://github.com/Adedoyin-Emmanuel/squad-js-sdk"> SquadJsSDK </a> The JavaScript | TypeScript SDK for SquadCo Payment Gateway**
+
+- 🌱 I’m currently learning **C# and DotNET**
 
 - 👯 I’m looking to collaborate on an **Open Source Project**...
 
 - 🤔 I’m always available to guide and support you in **Tech**
 
-- 💬 Ask me about Tech, Linux, TypeScript, GNOME, C, Software Testing, and Penpot... 
+- 💬 Ask me about Tech, Christ, Linux, Ubuntu, TypeScript, GNOME, C, Software Testing, SquadCo and Penpot... 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
-- ⚡ Fun fact: **I build stuff!**
+- ⚡ Fun fact: **I love large curved monitors eg Samsung Odyssey**
 
 ## Find Me! 
 
