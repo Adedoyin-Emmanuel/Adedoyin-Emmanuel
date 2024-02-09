@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
-- 🏫 I’m currently schooling at **ALX Africa** studying Software Engineering, **ALT School Africa** studying Cloud Engineering.
+- 🏫 I’m a graduate Software Engineer at **ALX Africa**, studying Software Engineering, **ALT School Africa** studying Cloud Engineering.
   
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Product Ambassador.
 
