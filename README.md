@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 - ❣️ I’m interested in the Fintech space.
 
-- 🔭 I’m currently working on **<a href="https://github.com/Adedoyin-Emmanuel/squad-js-sdk"> SquadJsSDK </a> The JavaScript | TypeScript SDK for SquadCo Payment Gateway**
+- 🔭 I’m currently working on **<a href="https://github.com/Adedoyin-Emmanuel/clipsave"> Clipsave </a> A free, open-source, all in one media downloader**
 
 - 🌱 I’m currently learning **C# and DotNET**
 
@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 - 🤔 I’m always available to guide and support you in **Tech**
 
-- 💬 Ask me about Tech, Christ, Linux, Ubuntu, TypeScript, GNOME, C, Software Testing, SquadCo and Penpot... 
+- 💬 Ask me about Tech, Christ, Linux, Ubuntu, TypeScript, GNOME, C#, Software Testing, SquadCo and Penpot... 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
