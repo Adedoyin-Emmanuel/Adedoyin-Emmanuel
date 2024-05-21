@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adedoyin Emmanuel Adeniyi</h1>
 <h1 align="center">I am a Software Engineer</h3>
 
-<p>I'm Adedoyin Emmanuel Adeniyi, I'm a Software Engineer with 3 years of experience and leading product cycle from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. I enjoy playing Call Of Duty and riding a bicycle during my free time.</p>
+<p>I'm Adedoyin Emmanuel Adeniyi, a Software Engineer with 4 years of experience and leading product cycle from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. I love playing Call of Duty (CODM) and cycling during my free time.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
@@ -19,21 +19,21 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
-- 🏫 I’m a graduate Software Engineer at **ALX Africa**, studying Software Engineering, **ALT School Africa** studying Cloud Engineering.
+- 🏫 I’m a graduate Software Engineer at **ALX Africa**, currently pursuing a Bachelor of Science in Computer Science.
   
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Product Ambassador.
 
 - ❣️ I’m interested in the Fintech space.
 
-- 🔭 I’m currently working on **<a href="https://github.com/Adedoyin-Emmanuel/clipsave"> Clipsave </a> A free, open-source, all in one media downloader**
+- 🔭 I’m currently working on **<a href="https://github.com/Adedoyin-Emmanuel/clipsave"> Clipsave </a> A free, all in one media downloader**
 
-- 🌱 I’m currently learning **C# and DotNET**
+- 🌱 I’m currently learning **ASP.NET and Blazor**
 
 - 👯 I’m looking to collaborate on an **Open Source Project**...
 
 - 🤔 I’m always available to guide and support you in **Tech**
 
-- 💬 Ask me about Tech, Christ, Linux, Ubuntu, TypeScript, GNOME, C#, Software Testing, SquadCo and Penpot... 
+- 💬 Ask me about Tech, Christ, TypeScript, C#, Penpot, Squadco, and CODM, 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
