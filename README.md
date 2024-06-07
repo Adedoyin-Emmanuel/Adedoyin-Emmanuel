@@ -25,15 +25,15 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 - ❣️ I’m interested in the Fintech space.
 
-- 🔭 I’m currently working on **<a href="https://github.com/Adedoyin-Emmanuel/clipsave"> Clipsave </a> A free, all in one media downloader**
+- 🔭 I’m currently working on **<a href="https://clipsave.ng/app"> Clipsave </a> A free, all in one media downloader**
 
-- 🌱 I’m currently learning **ASP.NET and Blazor**
+- 🌱 I’m currently learning **ASP.NET, Razor Pages, Entity Framework Core and Blazor**
 
 - 👯 I’m looking to collaborate on an **Open Source Project**...
 
 - 🤔 I’m always available to guide and support you in **Tech**
 
-- 💬 Ask me about Tech, Christ, TypeScript, C#, Penpot, Squadco, and CODM, 
+- 💬 Ask me about Tech, Christ, TypeScript, C#, Dotnet, Penpot, Squadco, and CODM, 
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
