@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Product Ambassador.
 
-- ❣️ I’m interested in the Fintech space.
+- ❣️ I’m interested in working with DOTNET (ASP.NET CORE, BLAZOR).
 
 - 🔭 I’m currently working on **<a href="https://clipsave.ng/app"> Clipsave </a> A free, all in one media downloader**
 
