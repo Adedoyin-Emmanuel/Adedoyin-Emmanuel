@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
-- 🏫 I’m a graduate Software Engineer at **ALX Africa**, currently pursuing a Bachelor of Science in Computer Science.
+- 🏫 I’m a graduate Software Engineer at **ALX Africa**, currently pursuing a BSC in Computer Science.
   
 - 💻 I’m open to Jobs or internships as a Fullstack Engineer, Software Tester, or Product Ambassador.
 
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 - 📫 How to reach me: ... **adedoyine535@gmail.com**
 
-- ⚡ Fun fact: **I love large curved monitors eg Samsung Odyssey**
+- ⚡ Fun fact: **I love listening to elephants trumpeting.**
 
 ## Find Me! 
 
