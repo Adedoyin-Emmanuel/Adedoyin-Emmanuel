@@ -1,8 +1,7 @@
+<p>Hi 👋, I'm Adedoyin Emmanuel Adeniyi.</p>
+<h3 align="left">Software Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Adedoyin Emmanuel Adeniyi</h1>
-<h1 align="center">I am a Software Engineer</h3>
-
-<p>I'm Adedoyin Emmanuel Adeniyi, a Software Engineer with 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. I love playing Call of Duty (CODM) and cycling during my free time.</p>
+<p>I'm a software engineer with over 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. I love playing Call of Duty (CODM) and cycling during my free time.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
@@ -33,6 +32,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   </a>
 </p>               
 
+<!--
 
 ## Support Me
 
@@ -41,13 +41,13 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
       <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" style="border-radius: 0;"/>
     </a>
 </p>
-
+-->
 
 
 <h2>My GitHub Stats</h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>  -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&locale=en&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
 
