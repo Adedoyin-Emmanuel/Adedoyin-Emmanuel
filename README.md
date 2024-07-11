@@ -24,13 +24,14 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
     <img src="https://skillicons.dev/icons?i=devto,github,gitlab,instagram,linkedin,mastodon,stackoverflow,twitter" />
   </a>
 </p>
-
+<!--
 ## Languages and Tools
  <p align="left">
   <a href="https://github.com/adedoyin-emmanuel?tab=repositories">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,html,css,bootstrap,tailwindcss,react,electron,dotnet,nodejs,express,mysql,postgres,mongodb,neovim,docker,sentry,github,jest,prisma,sequelize,postman,swagger" />
   </a>
 </p>               
+-->
 
 <!--
 
