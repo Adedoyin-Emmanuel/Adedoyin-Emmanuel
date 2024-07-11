@@ -1,10 +1,10 @@
 <p>Hi 👋, I'm Adedoyin Emmanuel Adeniyi.</p>
 <h3 align="left">Software Engineer</h3>
 
-<p>I'm a software engineer with over 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I enjoy building open-source projects and sharing my development journey. I love playing Call of Duty (CODM) and cycling during my free time.</p>
-
+I'm a software engineer with over 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I love building [open-source projects](https://github.com/adedoyin-emmanuel?tab=repositories), [sharing my development journey](https://x.com/Emmysoft_Tm), [writing](https://adedoyin.hashnode.dev), [speaking](https://youtube.com/@adedoyin-emma) and playing CODM.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
+
 
 
 <a href="https://www.twitter.com/Emmysoft_Tm" target="_blank" rel="noreferrer"><img
@@ -17,6 +17,9 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
+
+<!--
+
 <h3>Find Me!</h3>
 
 <p align="start">
@@ -24,7 +27,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
     <img src="https://skillicons.dev/icons?i=devto,github,gitlab,instagram,linkedin,mastodon,stackoverflow,twitter" />
   </a>
 </p>
-<!--
+
 ## Languages and Tools
  <p align="left">
   <a href="https://github.com/adedoyin-emmanuel?tab=repositories">
