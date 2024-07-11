@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
-## Find Me! 
+<h3>Find Me!</h3>
 
 <p align="start">
   <a href="https://linktr.ee/adedoyin_emmanuel">
@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 -->
 
 
-<h2>My GitHub Stats</h2>
+<h3>My GitHub Stats</h3>
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>  -->
