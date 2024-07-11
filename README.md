@@ -1,7 +1,7 @@
 <p>Hi 👋, I'm Adedoyin Emmanuel Adeniyi.</p>
 <h3 align="left">Software Engineer</h3>
 
-I'm a software engineer with over 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I love building [open-source projects](https://github.com/adedoyin-emmanuel?tab=repositories), [sharing my development journey](https://x.com/Emmysoft_Tm), [writing](https://adedoyin.hashnode.dev), [speaking](https://youtube.com/@adedoyin-emma) and playing CODM.
+I'm a software engineer with over 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I love building [open-source projects](https://github.com/adedoyin-emmanuel?tab=repositories), [sharing my development journey](https://x.com/Emmysoft_Tm), [writing](https://adedoyin.hashnode.dev), [speaking](https://youtube.com/@adedoyin-emma), [solving hackarrank problems](https://www.hackerrank.com/adedoyine535), [grinding leetcode](https://leetcode.com/u/Adedoyin-Emmanuel/) and playing CODM.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" /> </p>
 
