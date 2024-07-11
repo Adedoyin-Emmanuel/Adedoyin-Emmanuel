@@ -7,6 +7,8 @@ I'm a software engineer with over 4 years of experience shipping projects from c
 
 
 
+<!--
+
 <a href="https://www.twitter.com/Emmysoft_Tm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Emmysoft_Tm?logo=twitter&style=for-the-badge"/></a>
 <a href="https://www.github.com/adedoyin-emmanuel" target="_blank" rel="noreferrer"><img
@@ -17,8 +19,6 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCDqR1aRuNB8y6RO9huL4c-w?color=blue&label=View%20count&logo=youtube&style=for-the-badge">
 </a>
 
-
-<!--
 
 <h3>Find Me!</h3>
 
