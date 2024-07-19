@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&locale=en&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" alt="adedoyin-emmanuel" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p> -->
 
