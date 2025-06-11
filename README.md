@@ -1,9 +1,10 @@
 <p>Hi 👋, I'm Adedoyin Emmanuel Adeniyi.</p>
 <h3 align="left">Software Engineer</h3>
 
-I'm a software engineer with over 4 years of experience shipping projects from conception to completion. I'm frequently praised as adaptable and hardworking among my peers. I love building <a href="https://github.com/adedoyin-emmanuel?tab=repositories" target="_blank">open-source projects</a>, <a href="https://x.com/Emmysoft_Tm" target="_blank">sharing my development journey</a>, <a href="https://adedoyin.hashnode.dev" target="_blank">writing</a>, <a href="https://youtube.com/@adedoyin-emma" target="_blank">speaking</a>, <a href="https://www.hackerrank.com/adedoyine535" target="_blank">solving HackerRank problems</a>, <a href="https://leetcode.com/u/Adedoyin-Emmanuel/" target="_blank">grinding LeetCode</a>, and playing CODM.
+I'm a software engineer with over 4 years of experience shipping projects from conception to completion. My peers frequently praise me for being adaptable and hardworking. I love building <a href="https://github.com/adedoyin-emmanuel?tab=repositories" target="_blank">open-source projects</a>, <a href="https://x.com/Emmysoft_Tm" target="_blank">sharing my development journey</a>, <a href="https://adedoyin.hashnode.dev" target="_blank">writing</a>, <a href="https://youtube.com/@adedoyin-emma" target="_blank">speaking</a>, <a href="https://www.hackerrank.com/adedoyine535" target="_blank">solving HackerRank problems</a>, <a href="https://leetcode.com/u/Adedoyin-Emmanuel/" target="_blank">grinding LeetCode</a>, and playing CODM.
 
 Feel free to check out my <a href="https://adedoyinemmanuel.dev" target="_blank">portfolio</a> or reach out to me via email at <a href="mailto:hi@adedoyinemmanuel.dev">hi@adedoyinemmanuel.dev</a>.
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adedoyin-emmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="Emmanuel" />
@@ -53,12 +54,12 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
 -->
 
 
-<h3>My GitHub Stats</h3>
+<!--<h3>My GitHub Stats</h3>-->
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedoyin-emmanuel&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" /></p>-->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedoyin-emmanuel&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p> -->
 
