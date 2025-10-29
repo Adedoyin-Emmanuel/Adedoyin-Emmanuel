@@ -4,9 +4,9 @@
 
 <!--<h3 align="left">Software Engineer</h3>-->
 
-I am Adedoyin Emmanuel Adeniyi, a software engineer with several years of experience in shipping projects from conception to completion. My peers frequently praise me for being adaptable and hardworking. I love building <a href="https://github.com/adedoyin-emmanuel?tab=repositories" target="_blank">open-source projects</a>, <a href="https://x.com/Emmysoft_Tm" target="_blank">sharing my development journey</a>, <a href="https://adedoyin.hashnode.dev" target="_blank">writing</a>, <a href="https://youtube.com/@adedoyin-emma" target="_blank">speaking</a>, <a href="https://www.hackerrank.com/adedoyine535" target="_blank">solving HackerRank problems</a>, <a href="https://leetcode.com/u/Adedoyin-Emmanuel/" target="_blank">grinding LeetCode</a>, and playing CODM. (My username is AdedoyinEmma.) 
+I am Adedoyin Emmanuel Adeniyi, a software engineer with several years of experience in shipping projects from conception to completion. I'm currently building Lexi Contract https://lexicontract.com, an AI-Powered contract co-pilot that helps users understand their contract in seconds. My peers frequently praise me for being adaptable and hardworking. I love building <a href="https://github.com/adedoyin-emmanuel?tab=repositories" target="_blank">open-source projects</a>, <a href="https://x.com/Emmysoft_Tm" target="_blank">sharing my development journey</a>, <a href="https://adedoyin.hashnode.dev" target="_blank">writing</a>, <a href="https://youtube.com/@adedoyin-emma" target="_blank">speaking</a>, <a href="https://www.hackerrank.com/adedoyine535" target="_blank">solving HackerRank problems</a>, <a href="https://leetcode.com/u/Adedoyin-Emmanuel/" target="_blank">grinding LeetCode</a>, and playing CODM. (My username is AdedoyinEmma.) 
 
-Feel free to check out my <a href="https://adedoyinemmanuel.dev" target="_blank">portfolio</a> or reach out to me via email at <a href="mailto:hi@adedoyinemmanuel.dev">hi@adedoyinemmanuel.dev</a>.
+Feel free to check out my <a href="https://adedoyinemmanuel.vercel.app" target="_blank">portfolio</a> or reach out to me via email at <a href="mailto:adedoyine535@gmail.com">adedoyine535@gmail.com</a>.
 
 
 
@@ -41,7 +41,6 @@ src="https://img.shields.io/github/followers/adedoyin-emmanuel?logo=github&style
     <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,html,css,bootstrap,tailwindcss,react,electron,dotnet,nodejs,express,mysql,postgres,mongodb,neovim,docker,sentry,github,jest,prisma,sequelize,postman,swagger" />
   </a>
 </p>               
--->
 
 <!--
 
