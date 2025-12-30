@@ -4,9 +4,9 @@
 
 <!--<h3 align="left">Software Engineer</h3>-->
 
-I am Adedoyin Emmanuel Adeniyi, a software engineer with several years of experience in shipping projects from conception to completion. I'm currently building Lexi Contract https://lexicontract.com, an AI-Powered contract co-pilot that helps users understand their contract in seconds. My peers frequently praise me for being adaptable and hardworking. I love building <a href="https://github.com/adedoyin-emmanuel?tab=repositories" target="_blank">open-source projects</a>, <a href="https://x.com/Emmysoft_Tm" target="_blank">sharing my development journey</a>, <a href="https://adedoyin.hashnode.dev" target="_blank">writing</a>, <a href="https://youtube.com/@adedoyin-emma" target="_blank">speaking</a>, <a href="https://www.hackerrank.com/adedoyine535" target="_blank">solving HackerRank problems</a>, <a href="https://leetcode.com/u/Adedoyin-Emmanuel/" target="_blank">grinding LeetCode</a>, and playing CODM. (My username is AdedoyinEmma.) 
+I am Adedoyin Emmanuel Adeniyi, a software engineer with several years of experience in shipping projects from conception to completion. I currently work as a Software Engineer at <a href="https://nativelyai.com" target="_blank">NativelyAI</a>. I'm currently building Lexi Contract https://lexicontract.com, an AI-Powered contract co-pilot that helps users understand their contract in seconds. Also doing the Lord's work with <a href="https://holytab.space">Holytab</a>. My peers frequently praise me for being adaptable and hardworking. I enjoy building <a href="https://github.com/adedoyin-emmanuel?tab=repositories" target="_blank">open-source projects</a>, <a href="https://x.com/Emmysoft_Tm" target="_blank">sharing my development journey</a>, <a href="https://devblog.adedoyin.dev" target="_blank">writing on my dev blog</a>, <a href="https://youtube.com/@adedoyin-emma" target="_blank">making videos</a>, and playing CODM. (My username is AdedoyinEmma)
 
-Feel free to check out my <a href="https://adedoyinemmanuel.vercel.app" target="_blank">portfolio</a> or reach out to me via email at <a href="mailto:adedoyine535@gmail.com">adedoyine535@gmail.com</a>.
+Feel free to check out my <a href="https://adedoyin.dev" target="_blank">portfolio</a> or reach out to me via email at <a href="mailto:adedoyine535@gmail.com">adedoyine535@gmail.com</a>.
 
 
 
